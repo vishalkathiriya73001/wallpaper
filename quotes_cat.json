@@ -1,0 +1,157 @@
+{
+  "quotes_cat": [
+    {
+      "cat_id": "63",
+      "cat_name": "Motivational",
+      "cat_quote_ids": "",
+      "cat_img_count": "63",
+      "cat_vid_count": "0",
+      "start_date": "01-01-1970",
+      "end_date": "01-01-1970",
+      "is_event": "0",
+      "can_edit": "0",
+      "cat_image": "Motivational",
+      "cat_is_active": "1",
+      "folder_path": "https:\/\/4everpictures.online\/wallpaper\/assets\/site_images\/Motivational\/",
+      "images": [
+        "1640773614ic_cat_motivational__.jpg"
+      ],
+      "show_single_img": "1",
+      "show_cat_name": "1"
+    },
+    {
+      "cat_id": "70",
+      "cat_name": "Love Quotes",
+      "cat_quote_ids": "",
+      "cat_img_count": "62",
+      "cat_vid_count": "0",
+      "start_date": "01-01-1970",
+      "end_date": "01-01-1970",
+      "is_event": "0",
+      "can_edit": "0",
+      "cat_image": "LoveQ",
+      "cat_is_active": "1",
+      "folder_path": "https:\/\/4everpictures.online\/wallpaper\/assets\/site_images\/LoveQ\/",
+      "images": [
+        "1640773587ic_cat_love__.jpg"
+      ],
+      "show_single_img": "1",
+      "show_cat_name": "1"
+    },
+    {
+      "cat_id": "68",
+      "cat_name": "Happiness",
+      "cat_quote_ids": "",
+      "cat_img_count": "63",
+      "cat_vid_count": "0",
+      "start_date": "01-01-1970",
+      "end_date": "01-01-1970",
+      "is_event": "0",
+      "can_edit": "0",
+      "cat_image": "Happiness",
+      "cat_is_active": "1",
+      "folder_path": "https:\/\/4everpictures.online\/wallpaper\/assets\/site_images\/Happiness\/",
+      "images": [
+        "1640773596ic_cat_happyness__.jpg"
+      ],
+      "show_single_img": "1",
+      "show_cat_name": "1"
+    },
+    {
+      "cat_id": "62",
+      "cat_name": "Attitude",
+      "cat_quote_ids": "",
+      "cat_img_count": "64",
+      "cat_vid_count": "0",
+      "start_date": "01-01-1970",
+      "end_date": "01-01-1970",
+      "is_event": "0",
+      "can_edit": "0",
+      "cat_image": "Attitude",
+      "cat_is_active": "1",
+      "folder_path": "https:\/\/4everpictures.online\/wallpaper\/assets\/site_images\/Attitude\/",
+      "images": [
+        "1640773621ic_cat_attitude__.jpg"
+      ],
+      "show_single_img": "1",
+      "show_cat_name": "1"
+    },
+    {
+      "cat_id": "69",
+      "cat_name": "Life",
+      "cat_quote_ids": "",
+      "cat_img_count": "63",
+      "cat_vid_count": "0",
+      "start_date": "01-01-1970",
+      "end_date": "01-01-1970",
+      "is_event": "0",
+      "can_edit": "0",
+      "cat_image": "Life",
+      "cat_is_active": "1",
+      "folder_path": "https:\/\/4everpictures.online\/wallpaper\/assets\/site_images\/Life\/",
+      "images": [
+        "1640773592ic_cat_life____.jpg"
+      ],
+      "show_single_img": "1",
+      "show_cat_name": "1"
+    },
+    {
+      "cat_id": "67",
+      "cat_name": "Friendship",
+      "cat_quote_ids": "",
+      "cat_img_count": "63",
+      "cat_vid_count": "0",
+      "start_date": "01-01-1970",
+      "end_date": "01-01-1970",
+      "is_event": "0",
+      "can_edit": "0",
+      "cat_image": "Friendship",
+      "cat_is_active": "1",
+      "folder_path": "https:\/\/4everpictures.online\/wallpaper\/assets\/site_images\/Friendship\/",
+      "images": [
+        "1640773600ic_cat_friends__.jpg"
+      ],
+      "show_single_img": "1",
+      "show_cat_name": "1"
+    },
+    {
+      "cat_id": "64",
+      "cat_name": "Inspirational",
+      "cat_quote_ids": "",
+      "cat_img_count": "63",
+      "cat_vid_count": "0",
+      "start_date": "01-01-1970",
+      "end_date": "01-01-1970",
+      "is_event": "0",
+      "can_edit": "0",
+      "cat_image": "Inspirational",
+      "cat_is_active": "1",
+      "folder_path": "https:\/\/4everpictures.online\/wallpaper\/assets\/site_images\/Inspirational\/",
+      "images": [
+        "1640773610ic_cat_inspiration__.jpg"
+      ],
+      "show_single_img": "1",
+      "show_cat_name": "1"
+    },
+    {
+      "cat_id": "66",
+      "cat_name": "Positive",
+      "cat_quote_ids": "",
+      "cat_img_count": "63",
+      "cat_vid_count": "0",
+      "start_date": "01-01-1970",
+      "end_date": "01-01-1970",
+      "is_event": "0",
+      "can_edit": "0",
+      "cat_image": "Positive",
+      "cat_is_active": "1",
+      "folder_path": "https:\/\/4everpictures.online\/wallpaper\/assets\/site_images\/Positive\/",
+      "images": [
+        "1640773605ic_cat_positive1__.jpg",
+        "1640773605ic_cat_positive2__.jpg"
+      ],
+      "show_single_img": "1",
+      "show_cat_name": "1"
+    }
+  ]
+}
