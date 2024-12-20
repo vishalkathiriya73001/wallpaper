@@ -1,1 +1,32 @@
-ss
+{
+   "category": [
+        {
+          "cat_id": "63",
+          "cat_name": "AI Wallpapers",
+          "cat_is_active": "1",
+          "folder_name": "wallpaper",
+          "images": "catImages/ic_cat_with_name__ai_generated.png"
+        },
+        {
+          "cat_id": "70",
+          "cat_name": "Double Wallpapers",
+          "cat_is_active": "1",
+          "folder_name": "wallpaper",
+          "images": "catImages/ic_cat_double_with_name.png"
+        },
+        {
+          "cat_id": "68",
+          "cat_name": "Quotes",
+          "cat_is_active": "1",
+          "folder_name": "wallpaper",
+          "images": "catImages/ic_cat_with_name__Quotes.png"
+        },
+        {
+          "cat_id": "62",
+          "cat_name": "Category",
+          "cat_is_active": "1",
+          "folder_name": "wallpaper",
+          "images": "catImages/ic_cat_with_name__category.png"
+        }
+      ]
+}
